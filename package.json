@@ -1,26 +1,26 @@
 {
-  "name": "npm-expansions",
-  "version": "1.14.0",
-  "description": "What does n-p-m stand for?",
+  "name": "mvp-expansions",
+  "version": "0.0.1",
+  "description": "What does m-v-p stand for?",
   "main": "index.json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/npm/npm-expansions"
+    "url": "https://github.com/orlando/mvp-expansions"
   },
   "keywords": [
-    "npm",
+    "mvp",
     "acronym",
     "abbreviations",
     "names",
     "naming-is-hard",
     "recursive-bacronymic-abbreviations"
   ],
-  "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com/)",
+  "author": "Orlando Del Aguila <orlando@orlandodelaguila.com> (http://eatcodetravel.com/)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/npm/npm-expansions/issues"
+    "url": "https://github.com/orlando/mvp-expansions/issues"
   },
-  "homepage": "https://github.com/npm/npm-expansions",
+  "homepage": "https://github.com/orlando/mvp-expansions",
   "scripts": {
     "alphabetize": "./bin/alphabetize.js",
     "a": "npm run alphabetize",
