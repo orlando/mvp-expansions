@@ -1,20 +1,17 @@
-# npm-expansions
+# mvp-expansions
 
-What does n-p-m stand for?
+What does m-v-p stand for?
 
 ## What
 
 An array of expansions, like:
 
-- Napping Panda Missionaries
-- Never Poke Monkeys
-- Node Package Manager
-- nom, please more
+- Merely Valueless Product
 
 ## How
 
 ```sh
-npm install npm-expansions --save
+npm install mvp-expansions --save
 ```
 
 ## Contributing
@@ -25,8 +22,8 @@ Some other suggestions:
 
 * be meaningful. Three random words is not good enough.
 * be funny. This is very subjective, we realize, so try not to take it personally if we don't get it.
-* be novel. If your expansion starts with "No", "New", "Never" or "Node" the other two words better be pretty great.
-* avoid hyphenation, especially "non-". Yes, there are some in there already. Sorry.
+* be novel. If your expansion starts with "Minimum" or "Mom" the other two words better be pretty great.
+* avoid hyphenation, especially "Minimum-".
 * use actual words. You can't just make up random new words.
-* Avoid names of people and products (other than npm ;-))
-* avoid anything that even slightly hints of violating npm's [code of conduct](https://www.npmjs.com/policies/conduct/). These are literally the first words that appear on the website, and our audience is very broad, so it's best to avoid things that can be misconstrued.
+* Avoid names of people and products
+* Avoid insults or anything that can ofend people or a group
